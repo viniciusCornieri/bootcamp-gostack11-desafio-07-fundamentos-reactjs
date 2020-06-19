@@ -33,4 +33,8 @@ export const Container = styled.div<ContainerProps>`
       }
     }
   }
+
+  .nav-link-active {
+    border-bottom: 2px solid #ff872c;
+  }
 `;
